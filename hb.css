@@ -1,0 +1,21 @@
+#bac{
+  background-image: url("IMG_20161211_125945.jpg");
+  background-size: 100%auto;
+  size: 30%auto;
+}
+#info{
+  text-align: center;
+  size : 30%;
+  color: blue;
+}
+#heading{
+  text-align: center;
+  size : 100px;
+background-size: 250px;
+  background-image: url('LRM_EXPORT_62594093328057_20190916_005943065-01.jpeg');
+  color: gold;
+}
+#headp2{
+  text-align: center;
+  color: blue;
+}
